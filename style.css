@@ -1,24 +1,25 @@
 body{
-    background-color: hwb(19 54% 34%);
+    background-color: lightskyblue;
 }
 button{
+    color: crimson;
     border-radius: 50%;
     border: 3px;
-    background-color: rgb(226, 0, 0);
-    color: #000000;
+    background-color: #a7a7ff;
+
 }
 button:hover{
-    background-color: yellow;
+    background-color: aquamarine;
     color: black;
-    
+
 }
 label{
-    color: brown;
+    color: royalblue;
     margin: 20px;
 }
 input{
-    border-color: green;
-    background-color: antiquewhite;
     margin: 15px;
-
+    background-color: hsl(180, 36%, 85%);
+    border-color: blue;
+    
 }
